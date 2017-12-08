@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cliente</string>
+    <string name="busca_cliente">nome do cliente</string>
+    <string name="botao_busca">Buscar</string>
+    <string name="botao_insere">Inserir novo cliente</string>
+    <string name="inserir_nome">Digite o nome:</string>
+</resources>
